@@ -1,6 +1,6 @@
 # PROG6112-ST10443474-B
 
-# ⚔Battle Arena Game
+# Battle Arena Game
 
 A Java-based battle simulation game where different character types fight in an arena.  
 Each character has unique stats and a special ability, and battles are run automatically to determine a champion.  
